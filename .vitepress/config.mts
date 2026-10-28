@@ -20,7 +20,8 @@ export default defineConfig({
           { text: 'nodes', link: '/docs/nodes' },
           { text: 'tools', link: '/docs/tools' },
           { text: 'funs', link: '/docs/funs' },
-          { text: 'executor', link: '/docs/executor' }
+          { text: 'executor', link: '/docs/executor' },
+          { text: 'rule', link: '/docs/rule' }
         ]
       }
     ],
