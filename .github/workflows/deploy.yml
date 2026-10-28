@@ -41,7 +41,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 如果你的构建输出是 build/ 或 out/，请修改这里
-          path: 'docs/.vitepress/dist'
+          path: '.vitepress/dist'
 
   deploy:
     environment:
