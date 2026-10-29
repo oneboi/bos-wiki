@@ -21,7 +21,8 @@ export default defineConfig({
           { text: 'tools', link: '/docs/tools' },
           { text: 'funs', link: '/docs/funs' },
           { text: 'executor', link: '/docs/executor' },
-          { text: 'rule', link: '/docs/rule' }
+          { text: 'rule', link: '/docs/rule' },
+          { text: 'react', link: '/docs/react' }
         ]
       }
     ],
